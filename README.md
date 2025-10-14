@@ -147,6 +147,8 @@ ja.aria.collapseLabel;
 | aria.lastPageLabel | Last Page
 | aria.listLabel | Option List
 | aria.listView | List View
+| aria.maximizeLabel | Maximize
+| aria.minimizeLabel | Minimize
 | aria.moveAllToSource | Move All to Source
 | aria.moveAllToTarget | Move All to Target
 | aria.moveBottom | Move Bottom
@@ -171,6 +173,7 @@ ja.aria.collapseLabel;
 | aria.saveEdit | Save Edit
 | aria.scrollTop | Scroll Top
 | aria.selectAll | All items selected
+| aria.selectColor | Select a color
 | aria.selectLabel | Select
 | aria.selectRow | Row Selected
 | aria.showFilterMenu | Show Filter Menu
